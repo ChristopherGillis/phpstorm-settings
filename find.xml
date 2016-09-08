@@ -1,6 +1,9 @@
 <application>
   <component name="FindSettings">
     <option name="caseSensitive" value="true" />
+    <option name="customScope" value="File '[_www] - .../sites/default/modules/custom/the_institution_profiles/the_institution_profiles.search.inc'" />
+    <option name="defaultScopeName" value="File '[_www] - .../sites/default/modules/custom/the_institution_profiles/the_institution_profiles.search.inc'" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
+    <option name="SEARCH_SCOPE" value="File '[_www] - .../sites/default/modules/custom/the_institution_profiles/the_institution_profiles.search.inc'" />
   </component>
 </application>
