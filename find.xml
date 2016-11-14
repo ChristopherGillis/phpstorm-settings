@@ -4,10 +4,8 @@
     <option name="customScope" value="File '[_www] - .../sites/default/modules/custom/the_error_handling/the_error_handling.module'" />
     <option name="defaultScopeName" value="File '[_www] - .../sites/default/modules/custom/the_error_handling/the_error_handling.module'" />
     <option name="localCaseSensitive" value="true" />
-    <option name="wholeWordsOnly" value="true" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="File '[_www] - .../sites/default/modules/custom/the_error_handling/the_error_handling.module'" />
     <recentFileMasks>
       <mask>*.properties</mask>
