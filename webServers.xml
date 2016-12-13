@@ -7,6 +7,9 @@
       <webServer id="f07dc658-160a-437c-98d1-0ee6e286a169" name="tes-central.platform" url="http://tes-central.platform/">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
+      <webServer id="4d80cef1-4e75-4d71-9cf5-d6ab2c89ae73" name="tes_central.dev" url="http://tes_central.dev">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
     </option>
   </component>
 </application>
