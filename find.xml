@@ -1,9 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="caseSensitive" value="true" />
     <option name="customScope" value="File '[_www] - .../sites/default/modules/custom/the_error_handling/the_error_handling.module'" />
     <option name="defaultScopeName" value="File '[_www] - .../sites/default/modules/custom/the_error_handling/the_error_handling.module'" />
-    <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="File '[_www] - .../sites/default/modules/custom/the_error_handling/the_error_handling.module'" />
     <recentFileMasks>
       <mask>*.properties</mask>
