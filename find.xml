@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '[_www] - .../sites/default/modules/custom/the_error_handling/the_error_handling.module'" />
-    <option name="defaultScopeName" value="File '[_www] - .../sites/default/modules/custom/the_error_handling/the_error_handling.module'" />
-    <option name="SEARCH_SCOPE" value="File '[_www] - .../sites/default/modules/custom/the_error_handling/the_error_handling.module'" />
+    <option name="customScope" value="Directory '.../_www/sites/default/modules/features - [the]'" />
+    <option name="defaultScopeName" value="Directory '.../_www/sites/default/modules/features - [the]'" />
+    <option name="SEARCH_SCOPE" value="Directory '.../_www/sites/default/modules/features - [the]'" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
