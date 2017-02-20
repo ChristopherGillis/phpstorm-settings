@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Directory '.../_www/sites/default/modules/features - [the]'" />
-    <option name="defaultScopeName" value="Directory '.../_www/sites/default/modules/features - [the]'" />
-    <option name="SEARCH_SCOPE" value="Directory '.../_www/sites/default/modules/features - [the]'" />
+    <option name="customScope" value="Directory '.../_www/sites/default/themes/custom/the_responsive/css/vendor - [the]'" />
+    <option name="defaultScopeName" value="Directory '.../_www/sites/default/themes/custom/the_responsive/css/vendor - [the]'" />
+    <option name="SEARCH_SCOPE" value="Directory '.../_www/sites/default/themes/custom/the_responsive/css/vendor - [the]'" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
