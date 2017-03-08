@@ -10,6 +10,9 @@
       <webServer id="4d80cef1-4e75-4d71-9cf5-d6ab2c89ae73" name="tes_central.dev" url="http://tes_central.dev">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
+      <webServer id="e7c5d3a7-983d-4d15-8fea-3e4122377095" name="Localhost" url="http://localhost">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
     </option>
   </component>
 </application>
