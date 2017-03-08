@@ -9,6 +9,7 @@
       <mapping ext="theme" type="PHP" />
       <mapping ext="view" type="PHP" />
       <mapping ext="csv" type="PLAIN_TEXT" />
+      <mapping ext="db" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
