@@ -3,13 +3,15 @@
     <extensionMap>
       <mapping ext="info" type="Ini" />
       <mapping ext="profile" type="PHP" />
-      <mapping ext="engine" type="PHP" />
-      <mapping ext="test" type="PHP" />
-      <mapping ext="install" type="PHP" />
       <mapping ext="theme" type="PHP" />
+      <mapping ext="test" type="PHP" />
+      <mapping ext="engine" type="PHP" />
+      <mapping ext="install" type="PHP" />
       <mapping ext="view" type="PHP" />
       <mapping ext="csv" type="PLAIN_TEXT" />
       <mapping ext="db" type="PLAIN_TEXT" />
+      <mapping pattern="Vagrantfile" type="Perl" />
+      <mapping pattern="*.yml.dist" type="YAML" />
     </extensionMap>
   </component>
 </application>
