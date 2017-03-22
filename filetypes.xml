@@ -12,6 +12,7 @@
       <mapping ext="db" type="PLAIN_TEXT" />
       <mapping pattern="Vagrantfile" type="Perl" />
       <mapping pattern="*.yml.dist" type="YAML" />
+      <mapping ext="make" type="YAML" />
     </extensionMap>
   </component>
 </application>
