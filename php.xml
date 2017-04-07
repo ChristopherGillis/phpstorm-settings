@@ -11,8 +11,8 @@
       <interpreter home="vagrant:///var/www/cruk_oauth_server/usr/bin/php" id="33cd8c05-741f-46ab-82cb-6a47a8cd498c" name="PHP 5.5 (cruk_oauth_server)" debugger_id="php.debugger.XDebug">
         <remote_data VAGRANT_FOLDER="/var/www/cruk_oauth_server" INTERPRETER_PATH="/usr/bin/php" HELPERS_PATH="/home/vagrant/.phpstorm_helpers" INITIALIZED="false" VALID="true" />
       </interpreter>
-      <interpreter home="vagrant:///private/var/www/cruk_activity_management_web_service/usr/bin/php" id="106ddbc8-0cb0-4d9d-8db0-880e5e03aee3" name="PHP 5.5 (cruk_activity_management_web_service)" debugger_id="php.debugger.XDebug">
-        <remote_data VAGRANT_FOLDER="/private/var/www/cruk_activity_management_web_service" INTERPRETER_PATH="/usr/bin/php" HELPERS_PATH="/home/vagrant/.phpstorm_helpers" INITIALIZED="false" VALID="true" />
+      <interpreter home="vagrant:///private/var/www/cruk_activity_management@everything/usr/bin/php" id="106ddbc8-0cb0-4d9d-8db0-880e5e03aee3" name="PHP 5.5 (cruk_activity_management_web_service)" debugger_id="php.debugger.XDebug">
+        <remote_data VAGRANT_FOLDER="/private/var/www/cruk_activity_management" MACHINE_NAME="everything" INTERPRETER_PATH="/usr/bin/php" HELPERS_PATH="/home/vagrant/.phpstorm_helpers" INITIALIZED="false" VALID="true" />
       </interpreter>
     </interpreters>
   </component>
