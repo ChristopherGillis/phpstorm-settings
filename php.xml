@@ -1518,7 +1518,7 @@
     <phpunit_settings>
       <phpunit_by_interpreter interpreter_id="33cd8c05-741f-46ab-82cb-6a47a8cd498c" load_method="CUSTOM_LOADER" configuration_file_path="/var/www/cruk_oauth_server/app/phpunit.xml.dist" custom_loader_path="/var/www/cruk_oauth_server/vendor/autoload.php" phpunit_phar_path="" use_configuration_file="true" />
       <phpunit_by_interpreter interpreter_id="106ddbc8-0cb0-4d9d-8db0-880e5e03aee3" load_method="CUSTOM_LOADER" configuration_file_path="/var/www/cruk_activity_management_web_service/app/phpunit.xml.dist" custom_loader_path="/var/www/cruk_activity_management_web_service/vendor/autoload.php" phpunit_phar_path="" use_configuration_file="true" />
-      <phpunit_by_interpreter interpreter_id="662e1cf9-2048-420a-90a4-5ddaf5c97bf8" load_method="CUSTOM_LOADER" custom_loader_path="/var/www/cruk_supporter_hub/vendor/autoload.php" phpunit_phar_path="" />
+      <phpunit_by_interpreter interpreter_id="662e1cf9-2048-420a-90a4-5ddaf5c97bf8" load_method="CUSTOM_LOADER" bootstrap_file_path="/var/www/cruk_supporter_hub/app/bootstrap.php.cache" configuration_file_path="/var/www/cruk_supporter_hub/app/phpunit.xml.dist" custom_loader_path="/var/www/cruk_supporter_hub/vendor/autoload.php" phpunit_phar_path="" use_bootstrap_file="true" use_configuration_file="true" />
     </phpunit_settings>
   </component>
 </application>
