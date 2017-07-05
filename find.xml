@@ -19,6 +19,17 @@
       <mask>*.p</mask>
       <mask>*.ph</mask>
       <mask>*.php</mask>
+      <mask>*.y</mask>
+      <mask>*.ym</mask>
+      <mask>s.yml</mask>
+      <mask>se.yml</mask>
+      <mask>ser.yml</mask>
+      <mask>serv.yml</mask>
+      <mask>servic.yml</mask>
+      <mask>service.yml</mask>
+      <mask>services.yml</mask>
+      <mask>*services.yml</mask>
+      <mask>*.yml</mask>
     </recentFileMasks>
   </component>
 </application>
